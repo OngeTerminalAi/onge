@@ -1,11 +1,6 @@
-# Eliza 🤖
+# onge 🤖
 
-<div align="center">
-  <img src="./docs/static/img/eliza_banner.jpg" alt="Eliza Banner" width="100%" />
-</div>
-
-<div align="center">
-  
+ongei75g4RhFA7Ubr4mSSApnrYbGkuaKn9m4SoX6C8f
   📖 [Documentation](https://ai16z.github.io/eliza/) | 🎯 [Examples](https://github.com/thejoven/awesome-eliza)
   
 </div>
